@@ -3,8 +3,8 @@
 # XR기술을 활용한 게임 개발자 과정 - 1기
 
 ## Member
-`Captain` - 김정택
-`Guardian` - 신한영
-`Guardian` - 김재성
-`Booster` - 유용현
-`Booster` - 김태완
+- `Captain` : 김정택
+- `Guardian` : 신한영
+- `Guardian` : 김재성
+- `Booster` : 유용현
+- `Booster` : 김태완
